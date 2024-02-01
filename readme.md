@@ -5,8 +5,12 @@
 > AI and IOT
 
     https://digital-commons.usnwc.edu/nwc-review/vol69/iss2/4/
+
 > general insight
 
+    https://www.tandfonline.com/doi/abs/10.1080/14702436.2021.1924688
+
+> naive technological determinism
 
 # How can a paper be written
 
@@ -14,7 +18,14 @@
 
 2. THen look at swot ananlysis of each of the technogy AI and IOT should be there
 
+3. provde a para on dangers of naive technological determinism
 
 
 
+# references
 
+This focus on high technology can
+be found across academic research (Tangredi 2019; Johnson 2017), in the doctrinal
+statements of western navies (MoD, 2018, 142–145; ADF, 2019, 8; Bekkers et al. 2019,
+79), defence think-tanks (Wilhelm, 2019), or within “futurist” literature (Brose 2020, xii–
+xv; Dunlap, 2010
