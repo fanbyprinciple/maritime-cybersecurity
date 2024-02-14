@@ -12,6 +12,11 @@
 
 > naive technological determinism
 
+> Impacts of digitisaion on shps operation
+
+https://commons.wmu.se/cgi/viewcontent.cgi?article=2700&context=all_dissertations
+
+
 # How can a paper be written
 
 1. start with a quote from world war I showing importance of technology
