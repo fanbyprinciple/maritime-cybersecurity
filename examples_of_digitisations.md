@@ -18,4 +18,9 @@ of digitalization in the maritime field, such as autonomous navigation, has been
 researched to a certain level
 
 
-3. 
+Mayflower was the first fully autonomous vessel that attempetd to cross the atlantic ocean using AI and solar energy
+
+Nippon fully autonomous logn range commercial sail
+
+IMO 2021 regulations
+
