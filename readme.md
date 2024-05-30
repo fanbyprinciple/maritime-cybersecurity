@@ -25,6 +25,18 @@ https://commons.wmu.se/cgi/viewcontent.cgi?article=2700&context=all_dissertation
 
 3. provde a para on dangers of naive technological determinism
 
+4. 1.	Get the transcription from that hv ideo
+2.	Get relevant details from the internet when possible
+3.	3. Then work on it as feasible
+
+1. stuxnet story from white house
+2. story of wannacry
+3. story of minesweeper warfare
+4. IN
+
+rewrite the the entire section about cybersecurity in indian navy
+
+
 
 
 # references
@@ -34,4 +46,5 @@ be found across academic research (Tangredi 2019; Johnson 2017), in the doctrina
 statements of western navies (MoD, 2018, 142–145; ADF, 2019, 8; Bekkers et al. 2019,
 79), defence think-tanks (Wilhelm, 2019), or within “futurist” literature (Brose 2020, xii–
 xv; Dunlap, 2010
+
 
