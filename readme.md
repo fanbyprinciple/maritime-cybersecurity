@@ -48,3 +48,5 @@ statements of western navies (MoD, 2018, 142–145; ADF, 2019, 8; Bekkers et al.
 xv; Dunlap, 2010
 
 
+# MDA - amritime domain awareness , escalation management in Ensuring secur eseas, INdian Maritime security strategy
+
